@@ -125,5 +125,5 @@ body {
     height: 15px;
     border-radius: 50%;
     background: var(--clr);
-    box-shadow: 0 0 20px var(--clr), ;
+    box-shadow: 0 0 20px var(--clr), 0 0 60px;
 }

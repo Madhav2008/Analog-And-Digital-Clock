@@ -62,5 +62,6 @@ body {
     position: absolute;
     inset: 20px;
     color: #fff;
-    text-align: center;transform: ;
+    text-align: center;
+    transform: ;
 }

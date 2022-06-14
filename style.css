@@ -16,7 +16,7 @@ body {
 }
 
 .container {
-    position: relative;
+    position: relative;background: #2f363e;
 }
 
 .clock {

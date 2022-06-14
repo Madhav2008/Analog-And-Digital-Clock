@@ -111,5 +111,5 @@ body {
 
 .circle3 {
     width: 180px;
-    height: 180px;
+    height: 180px;z-index: 8;
 }

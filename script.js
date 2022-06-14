@@ -1,1 +1,1 @@
-let hr = document.querySelector
+let hr = document.querySelector(#hr)

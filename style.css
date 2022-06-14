@@ -78,5 +78,5 @@ body {
     position: absolute;
     width: 300px;
     height: 300px;
-    border: 2px;
+    border: 2px solid;
 }

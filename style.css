@@ -17,7 +17,7 @@ body {
 
 .container {
     position: relative;
-    background: #2f363e;
+    background: #2f363e;min-height: 400px;
 }
 
 .clock {

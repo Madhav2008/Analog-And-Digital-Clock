@@ -147,7 +147,8 @@ body {
     position: relative;
     width: 60px;
     text-align: center;
-    font-weight: 500;color: var(--clr);
+    font-weight: 500;
+    color: var(--clr);
 }
 
 #time div:nth-child(1)::after,

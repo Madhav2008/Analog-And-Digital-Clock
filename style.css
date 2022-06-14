@@ -63,5 +63,5 @@ body {
     inset: 20px;
     color: #fff;
     text-align: center;
-    transform: rotate(calc(30deg *var(--i)));
+    transform: rotate(calc(30deg * var(--i)));
 }

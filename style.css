@@ -158,4 +158,4 @@ body {
     right: -4px;
 }
 
-#time div
+#time div:last-child

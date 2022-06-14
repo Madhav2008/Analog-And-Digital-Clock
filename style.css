@@ -144,5 +144,6 @@ body {
 }
 
 #time div {
-    position: relative;width: 60px;
+    position: relative;
+    width: 60px;
 }

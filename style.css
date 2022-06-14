@@ -66,4 +66,4 @@ body {
     transform: rotate(calc(30deg * var(--i)));
 }
 
-.clock span b
+.clock span b{}

@@ -52,5 +52,6 @@ body {
     content: '';
     position: absolute;
     width: 8px;
-    height: 8px;background: #2f363e;
+    height: 8px;
+    background: #2f363e;
 }

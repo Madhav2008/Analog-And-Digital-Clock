@@ -18,7 +18,8 @@ body {
 .container {
     position: relative;
     background: #2f363e;
-    min-height: 500px;border-radius: 20px;
+    min-height: 500px;
+    border-radius: 20px;
     box-shadow: 25px 25px 75px rgba(0, 0, 0, 0.75),
         10px 50px 70px rgba(0, 0, 0, 0.25),
         inset 5px 5px 10px rgba(0, 0, 0, 0.5),

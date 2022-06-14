@@ -66,4 +66,6 @@ body {
     transform: rotate(calc(30deg * var(--i)));
 }
 
-.clock span b {font-size: 2em;}
+.clock span b {
+    font-size: 2em;
+}

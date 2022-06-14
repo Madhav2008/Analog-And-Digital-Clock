@@ -41,7 +41,7 @@ body {
     border-radius: 50%;
     box-shadow: 10px 50px 70px rgba(0, 0, 0, 0.25),
         inset 5px 5px 10px rgba(0, 0, 0, 0.5),
-        inset 5px 5px 20px rgba(225, 225, 0, 0.2),
+        inset 5px 5px 20px rgba(225, 225, 225, 0.2),
         inset -5px -5px 15px rgba(0, 0, 0, 0.75);
     display: flex;
     justify-content: center;

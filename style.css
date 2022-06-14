@@ -83,7 +83,7 @@ body {
 }
 
 .circle i {
-    position: absolute;
+    position: absolute;width: 6px;
 }
 
 .circle2 {

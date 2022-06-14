@@ -151,5 +151,5 @@ body {
 }
 
 #time div:nth-child(1)::after {
-    content: ':';
+    content: ':';position: absolute;
 }

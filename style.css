@@ -89,7 +89,7 @@ body {
     position: absolute;
     width: 6px;
     height: 50%;
-    background: var(--clr);
+    background: var(--clr);opacity: 0.5;
 }
 
 .circle2 {

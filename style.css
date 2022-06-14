@@ -60,5 +60,6 @@ body {
 
 .clock span {
     position: absolute;
-    inset: 20px;color: #fff;
+    inset: 20px;
+    color: #fff;
 }

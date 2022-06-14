@@ -92,7 +92,7 @@ body {
     background: var(--clr);
     opacity: 0.75;
     transform-origin: bottom;
-    transform: scaleY(0.5);
+    transform: scaleY(0.5);z-index: 9;
 }
 
 .circle:nth-child(1) i {

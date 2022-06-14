@@ -159,5 +159,6 @@ body {
 }
 
 #time div:last-child {
-    font-size: 0.5em;display: flex;
+    font-size: 0.5em;
+    display: flex;
 }

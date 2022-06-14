@@ -150,4 +150,6 @@ body {
     font-weight: 500;
 }
 
-#time div:nth-child(1)::after {content: '';}
+#time div:nth-child(1)::after {
+    content: '';
+}

@@ -93,7 +93,7 @@ body {
     opacity: 0.75;
     transform-origin: bottom;
     transform: scale(0.5);
-}.circle i
+}.circle:nth-child(1) i
 
 .circle2 {
     width: 240px;

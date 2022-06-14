@@ -82,7 +82,7 @@ body {
     border-radius: 50%;
 }
 
-.circle i {}
+.circle i {position: absolute;}
 
 .circle2 {
     width: 240px;

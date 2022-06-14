@@ -69,5 +69,6 @@ body {
 .clock span b {
     font-size: 2em;
     opacity: 0.25;
-    font-weight: 600;transform: rotate(calc(30deg * var(--i)));
+    font-weight: 600;
+    transform: rotate(calc(30deg * var(--i)));
 }

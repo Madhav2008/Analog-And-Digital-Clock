@@ -150,4 +150,4 @@ body {
     font-weight: 500;
 }
 
-#time div
+#time div:nth-child(1)

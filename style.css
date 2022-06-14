@@ -97,6 +97,8 @@ body {
 
 .circle:nth-child(1) i {
     width: 2px;
+}.circle:nth-child(1) i {
+    width: 2px;
 }
 
 .circle2 {

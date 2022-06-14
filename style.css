@@ -150,7 +150,8 @@ body {
     font-weight: 500;
 }
 
-#time div:nth-child(1)::after,#time div:nth-child(1)::after {
+#time div:nth-child(1)::after,
+#time div:nth-child(1)::after {
     content: ':';
     position: absolute;
     right: -4px;

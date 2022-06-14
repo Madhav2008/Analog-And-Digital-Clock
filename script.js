@@ -1,3 +1,3 @@
 let hr = document.querySelector('#hr');
-let mn = document.querySelector('#hr');
+let mn = document.querySelector('#mn');
 let sc = document.querySelector('#hr');

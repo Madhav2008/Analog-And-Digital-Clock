@@ -90,7 +90,7 @@ body {
     width: 6px;
     height: 50%;
     background: var(--clr);
-    opacity: 0.5;
+    opacity: 0.5;transform-origin: bottom;
 }
 
 .circle2 {

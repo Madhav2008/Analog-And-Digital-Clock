@@ -146,5 +146,5 @@ body {
 #time div {
     position: relative;
     width: 60px;
-    text-align: center;
+    text-align: center;font-weight: 500;
 }

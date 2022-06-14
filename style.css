@@ -121,5 +121,6 @@ body {
     content: '';
     position: absolute;
     width: 15px;
-    height: 15px;background: var(--clr);
+    height: 15px;
+    background: var(--clr);
 }

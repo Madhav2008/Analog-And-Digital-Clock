@@ -117,4 +117,4 @@ body {
     z-index: 8;
 }
 
-.circle::before {}
+.circle::before {content: '';}

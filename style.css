@@ -166,4 +166,6 @@ body {
     color: #fff;
 }
 
-#time div:nth-child(2)::after {animation: animate 1s steps(1);}
+#time div:nth-child(2)::after {
+    animation: animate 1s steps(1);
+}

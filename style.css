@@ -120,7 +120,8 @@ body {
 .circle::before {
     content: '';
     position: absolute;
-    top: -8.5px;left: 50%;
+    top: -8.5px;
+    left: 50%;
     width: 15px;
     height: 15px;
     background: var(--clr);

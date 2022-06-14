@@ -20,5 +20,5 @@ body {
 }
 
 .clock {
-    position: relative;
+    position: relative;width: 450px;
 }

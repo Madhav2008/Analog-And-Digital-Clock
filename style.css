@@ -135,5 +135,5 @@ body {
     display: flex;
     padding: 10px 20px;
     font-size: 2em;
-    font-weight: 600;
+    font-weight: 600;border: 2px;
 }

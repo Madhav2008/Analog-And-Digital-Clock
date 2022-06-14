@@ -58,4 +58,6 @@ body {
     border-radius: 50%;
 }
 
-.clock span {position: absolute;}
+.clock span {
+    position: absolute;
+}

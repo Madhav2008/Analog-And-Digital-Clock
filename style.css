@@ -95,7 +95,7 @@ body {
     transform: scale(0.5);
 }
 
-.circle:nth-child(1) i {}
+.circle:nth-child(1) i {width: 2px;}
 
 .circle2 {
     width: 240px;

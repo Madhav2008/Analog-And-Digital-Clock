@@ -119,7 +119,7 @@ body {
 
 .circle::before {
     content: '';
-    position: absolute;
+    position: absolute;top: -8.5px;
     width: 15px;
     height: 15px;
     background: var(--clr);

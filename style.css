@@ -67,5 +67,6 @@ body {
 }
 
 .clock span b {
-    font-size: 2em;opacity: 0.25;
+    font-size: 2em;
+    opacity: 0.25;
 }

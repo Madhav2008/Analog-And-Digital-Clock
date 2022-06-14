@@ -133,5 +133,6 @@ body {
 #time {
     margin-bottom: 40px;
     display: flex;
-    padding: 10px 20px;font-size: 2em;
+    padding: 10px 20px;
+    font-size: 2em;
 }

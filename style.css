@@ -59,5 +59,6 @@ body {
 }
 
 .clock span {
-    position: absolute;inset: 20px;
+    position: absolute;
+    inset: 20px;
 }

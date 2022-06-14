@@ -143,4 +143,6 @@ body {
         inset -5px -5px 15px rgba(0, 0, 0, 0.75);
 }
 
-#time div {position: relative;}
+#time div {
+    position: relative;
+}

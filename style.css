@@ -48,4 +48,6 @@ body {
     margin-bottom: 30px;
 }
 
-.clock::before {content: '';}
+.clock::before {
+    content: '';
+}

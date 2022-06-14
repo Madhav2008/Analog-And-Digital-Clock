@@ -18,7 +18,7 @@ body {
 .container {
     position: relative;
     background: #2f363e;
-    min-height: 500px;
+    /* min-height: 500px; */
     border-radius: 20px;
     border-top-left-radius: 225px;
     border-top-right-radius: 225px;

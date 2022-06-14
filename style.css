@@ -50,5 +50,6 @@ body {
 
 .clock::before {
     content: '';
-    position: absolute;width: 8px;
+    position: absolute;
+    width: 8px;
 }

@@ -152,5 +152,6 @@ body {
 
 #time div:nth-child(1)::after {
     content: ':';
-    position: absolute;right: -4px;
+    position: absolute;
+    right: -4px;
 }

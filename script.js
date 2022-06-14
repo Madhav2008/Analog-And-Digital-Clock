@@ -7,4 +7,4 @@ let hh = day.getHours() * 30;
 let mm = day.getMinutes() * 6;
 let ss = day.getSeconds() * 6;
 
-hr.style.transform = `rotateZ`
+hr.style.transform = `rotateZ()`

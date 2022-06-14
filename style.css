@@ -164,4 +164,6 @@ body {
     justify-content: center;
     align-items: center;
     color: #fff;
-}#time div:nth-child(2)::after
+}
+
+#time div:nth-child(2)::after

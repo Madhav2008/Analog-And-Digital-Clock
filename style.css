@@ -82,7 +82,8 @@ body {
     border-radius: 50%;
     display: flex;
     justify-content: center;
-    align-items: flex-start;z-index: 10;
+    align-items: flex-start;
+    z-index: 10;
 }
 
 .circle i {

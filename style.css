@@ -166,4 +166,4 @@ body {
     color: #fff;
 }
 
-#time div:nth-child(2)::after
+#time div:nth-child(2)::after{}

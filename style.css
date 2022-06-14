@@ -74,4 +74,4 @@ body {
     transform: rotate(calc(-30deg * var(--i)));
 }
 
-.circle {}
+.circle {position: absolute;}

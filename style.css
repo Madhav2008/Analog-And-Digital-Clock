@@ -84,7 +84,8 @@ body {
 
 .circle i {
     position: absolute;
-    width: 6px;height: 50%;
+    width: 6px;
+    height: 50%;
 }
 
 .circle2 {

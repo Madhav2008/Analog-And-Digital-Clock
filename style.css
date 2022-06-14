@@ -131,5 +131,5 @@ body {
 }
 
 #time {
-    margin-bottom: 40px;
+    margin-bottom: 40px;display: flex;
 }

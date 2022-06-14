@@ -136,5 +136,5 @@ body {
     padding: 10px 20px;
     font-size: 2em;
     font-weight: 600;
-    border: 2px solid;
+    border: 2px solid rgba(0, 0, 0, 0.5);
 }

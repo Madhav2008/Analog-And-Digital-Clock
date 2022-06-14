@@ -23,5 +23,5 @@ body {
     position: relative;
     width: 450px;
     height: 450px;
-    background: #2f363e;
+    background: #2f363e;box-shadow: 10px;
 }
